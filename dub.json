@@ -1,0 +1,14 @@
+{
+    "name": "wkwiki",
+    "description": "weak wiki system",
+    "authors": ["Kazuki KOMATSU"],
+    "homepage": "http://comm.ee.tut.ac.jp/wc",
+    "license": "MIT Licence",
+
+    "buildRequirements": ["silenceDeprecations"],
+    "versions": ["VibeDefaultMain"],
+
+    "dependencies": {
+        "vibe-d": "~>0.7.28"
+    }
+}
